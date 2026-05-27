@@ -35,7 +35,7 @@ A modern, feature-rich learning management system frontend built with Vite, Reac
 - **Date Utility**: Date-fns 3
 - **UUID**: UUID 9
 
-## 📦 Installation
+##  Installation :
 
 1. **Clone the repository**
    ```bash
@@ -63,7 +63,7 @@ A modern, feature-rich learning management system frontend built with Vite, Reac
    npm run preview
    ```
 
-## 📜 Available Scripts
+##  Available Scripts :
 
 | Script        | Description                                   |
 | ------------- | --------------------------------------------- |
