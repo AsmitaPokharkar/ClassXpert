@@ -1,4 +1,4 @@
-# Unified Learning Platform
+# Unified Learning Platform - ClassXpert
 
 A modern, feature-rich learning management system frontend built with Vite, React, TypeScript, and Tailwind CSS. This platform provides an intuitive interface for course management, analytics dashboards, content creation, and more. This was developed by me along with my groupmates as a Sem 3 Project.
 
